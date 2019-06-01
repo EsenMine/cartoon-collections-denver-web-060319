@@ -26,6 +26,6 @@ def find_the_cheese(array_of_strings)
     return
   elsif array_of_strings.include("camembert")
     return
-  else   
+  else
   end
 end
